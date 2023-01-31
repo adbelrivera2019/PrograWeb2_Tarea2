@@ -1,0 +1,24 @@
+{
+  "name": "prograweb2_tarea2",
+  "version": "1.0.0",
+  "description": "Tarea 2 de la clase de Programación Web 2\r Desarrollada por CRistian Adbel Rivera\r Estudiante del Tecnico Universitario en Diseño y Desarrollo Web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adbelrivera2019/PrograWeb2_Tarea2.git"
+  },
+  "author": "crivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adbelrivera2019/PrograWeb2_Tarea2/issues"
+  },
+  "homepage": "https://github.com/adbelrivera2019/PrograWeb2_Tarea2#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "mathjs": "^11.5.1"
+  }
+}
